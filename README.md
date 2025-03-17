@@ -14,15 +14,19 @@
 첫 실행 화면  
 [
   ![Image](https://github.com/user-attachments/assets/d187852a-50ae-4970-bd7c-eedc10317df6)
+  ]
 Space : 녹화 ( 좌상단에 빨간 원 표시 )  
 [
   ![Image](https://github.com/user-attachments/assets/689a2e88-2669-4eb0-942b-84bdb46746a0)
+  ]
 C/V/B/N : 명암 대비 및 밝기 조정  
 [
   ![Image](https://github.com/user-attachments/assets/5bd0b871-b7e3-4cfc-9114-af7c3ce0cd10)
 ![Image](https://github.com/user-attachments/assets/74072b8e-6d9e-4208-8ee6-965e7527ee5f)
 ![Image](https://github.com/user-attachments/assets/e76037e7-341d-4f7d-8230-a7ccc28195bb)
+]
 F   : 좌우 반전
 [
 ![Image](https://github.com/user-attachments/assets/47f63ba2-2477-4c9d-bcff-3e3b50c178a0)
+]
 Esc : 종료
